@@ -1,0 +1,19 @@
+{
+  "name": "apc-jquery_upload_preview",
+  "version": "1.0.0",
+  "description": "This jQuery plugin provides an easy way to preview your uploads before they're actually uploaded to the server. So if you selected an image or audio file from your hard drive, it will generate a live preview of the selected image or audio player for the audio file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akhilesh-sirvi92/jquery_upload_preview.git"
+  },
+  "author": "Akhilesh sirvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilesh-sirvi92/jquery_upload_preview/issues"
+  },
+  "homepage": "https://github.com/akhilesh-sirvi92/jquery_upload_preview#readme"
+}
